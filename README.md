@@ -16,10 +16,6 @@
 - Built and deployed mission-critical platforms from concept to production, enhancing user experience and reliability
 - Collaborated with data scientists on AI features, driving automation and analytical insights
 
-**Software Engineer @ Israeli Military Intelligence - Unit 8200 (_2019 - 2022_)**
-- Designed and developed scalable end-to-end systems and data pipelines in Python, improving processing efficiency by 30%
-- Applied Machine Learning techniques to enhance core intelligence systems and deliver actionable insights
-
 ## Projects
 ### Data-Driven EEG Band Discovery with Decision Trees
 [Publication](https://www.mdpi.com/1424-8220/22/8/3048)
@@ -28,12 +24,11 @@ Developed objective strategy for discovering optimal EEG bands based on signal p
 
 ![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
 
-### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
-[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
+### EyeVision – AI-Powered Violence Detection System for Daycares
 
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
+EyeVision is an AI-powered system that uses advanced computer vision and video analytics to automatically detect signs of violence in daycares from regular CCTV footage. Leveraging deep learning models for both visual and motion analysis, our solution achieved over 90% accuracy in real-time detection and alerting through a dedicated app for parents and authorities. Beyond its technical innovation, EyeVision presents a scalable business solution with strong social impact potential — and was awarded First Place in the College of Management’s Outstanding Final Project Competition.
 
-![Bike Study](/assets/img/bike_study.jpeg)
+![EyeVision](/assets/img/bike_study.jpeg)
 
 ## Talks & Lectures
-- A Brief Introduction to Optimization - GSP Seminar, Fall 2019
+- RLAIF vs. RLHF - NLP Seminar, 2025 [Publication](https://www.mdpi.com/1424-8220/22/8/3048)
