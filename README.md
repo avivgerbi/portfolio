@@ -1,20 +1,24 @@
 # Data Scientist
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+#### Technical Skills: Python, SQL, Deep Learning, NLP, Computer Vision, GenAI, LLMs
 
 ## Education
-- M.Sc. in Computer Science | Reichman University (_2022 - 2025_)
-- MBA - Business Administration	| Tel Aviv University (_2024 - Present_)
-- B.Sc. in Computer Science | College of Management Academic Studies (_2019 - 2022_)
+- M.Sc., Computer Science | Reichman University (_2022 - 2025_)
+- MBA, Business Administration	| Tel Aviv University (_2024 - Present_)
+- B.Sc, Computer Science | College of Management (_2019 - 2022_)
 
 ## Work Experience
 **R&D Group Lead @ Israeli Military Intelligence - Unit 8200 (_2024 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
+- Directed initiatives integrating AI into large-scale platforms, translating business goals into scalable data solutions
+- Collaborated with product managers, stakeholders, and external partners to align strategy and deliver measurable impact
 
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+**Software Engineer Team Lead @ Israeli Military Intelligence - Unit 8200 (_2022 - 2024_)**
+- Built and deployed mission-critical platforms from concept to production, enhancing user experience and reliability
+- Collaborated with data scientists on AI features, driving automation and analytical insights
+
+**Software Engineer @ Israeli Military Intelligence - Unit 8200 (_2019 - 2022_)**
+- Designed and developed scalable end-to-end systems and data pipelines in Python, improving processing efficiency by 30%
+- Applied Machine Learning techniques to enhance core intelligence systems and deliver actionable insights
 
 ## Projects
 ### Data-Driven EEG Band Discovery with Decision Trees
