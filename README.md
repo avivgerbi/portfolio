@@ -34,7 +34,13 @@ EyeVision is an AI-powered system that uses advanced computer vision and video a
 
 ChatGPT The Tweets, a large-scale data science and machine learning pipeline designed to analyze public sentiment and trends about ChatGPT on Twitter. Using PySpark for scalable big data processing and logistic regression for sentiment classification, we analyzed over 190,000 tweets to uncover correlations between sentiment, geography, and user occupation. Additionally, we applied N-Gram and TF-IDF models to extract trending keywords and popular discussion topics. Beyond its analytical depth, this project demonstrates how AI-driven social listening can inform business and product strategy through real-time public opinion insights.
 
-![EyeVision](/assets/img/ChatGPT_The_Tweets.png)
+![ChatGPT The Tweets](/assets/img/ChatGPT_The_Tweets.png)
+
+### Reinforcement Learning for Flappy Bird – Comparing SARSA and Q-Learning
+
+In this project, we applied Reinforcement Learning (RL) techniques to train an AI agent to play the game Flappy Bird using SARSA and Q-Learning algorithms. We built a custom state-space preprocessing pipeline that reduced over 10^21 possible states to only 10,000, enabling efficient tabular learning. The project incorporated reward shaping, epsilon decay exploration, and extensive hyperparameter experimentation to evaluate performance and stability. Results showed that SARSA with Epsilon Decay achieved the best balance between exploration and exploitation, outperforming other configurations with an average reward of 27.55 and a maximum score of 343.
+
+![Flappy Bird](/assets/img/FlappyBird.mp4)
 
 ## Talks & Lectures
 - RLAIF vs. RLHF - NLP Seminar, 2025 [Article](https://arxiv.org/abs/2309.00267)
