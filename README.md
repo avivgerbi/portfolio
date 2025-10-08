@@ -17,12 +17,11 @@
 - Collaborated with data scientists on AI features, driving automation and analytical insights
 
 ## Projects
-### Data-Driven EEG Band Discovery with Decision Trees
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
+### Hebrew Sentence-BERT – Semantic Representation Learning for Low-Resource Languages
 
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
+We developed a Sentence-BERT (SBERT) model tailored for Hebrew, applying advanced representation learning and contrastive training techniques to generate high-quality sentence embeddings. Using the Hebrew Natural Language Inference (NLI) dataset for training and the Hebrew Semantic Textual Similarity (STS) benchmark for evaluation, we fine-tuned four transformer architectures — AlephBERT, mBERT, DictaBERT, and RoBERTa — within the SentenceTransformer framework. The best-performing configuration, DictaBERT with Contrastive Loss, achieved Pearson correlation of 0.648 and Spearman correlation of 0.661, outperforming all other models in capturing subtle semantic relationships in Hebrew text. Beyond the research contribution, this project showcases the data science workflow for low-resource NLP, including data preprocessing, model evaluation, and optimization under computational constraints.
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
+![Hebrew Sentence-BERT](/assets/img/Hebrew_SBERT.png)
 
 ### EyeVision – AI-Powered Violence Detection System for Daycares
 
