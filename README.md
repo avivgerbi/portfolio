@@ -28,7 +28,7 @@ Developed objective strategy for discovering optimal EEG bands based on signal p
 
 EyeVision is an AI-powered system that uses advanced computer vision and video analytics to automatically detect signs of violence in daycares from regular CCTV footage. Leveraging deep learning models for both visual and motion analysis, our solution achieved over 90% accuracy in real-time detection and alerting through a dedicated app for parents and authorities. Beyond its technical innovation, EyeVision presents a scalable business solution with strong social impact potential — and was awarded First Place in the College of Management’s Outstanding Final Project Competition.
 
-![EyeVision](/assets/img/bike_study.jpeg)
+![EyeVision](/assets/img/EyeVision.png)
 
 ## Talks & Lectures
 - RLAIF vs. RLHF - NLP Seminar, 2025 [Publication](https://www.mdpi.com/1424-8220/22/8/3048)
