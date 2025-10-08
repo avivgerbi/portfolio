@@ -30,5 +30,11 @@ EyeVision is an AI-powered system that uses advanced computer vision and video a
 
 ![EyeVision](/assets/img/EyeVision.png)
 
+### ChatGPT The Tweets – Sentiment Analysis on Social Media Impact
+
+ChatGPT The Tweets, a large-scale data science and machine learning pipeline designed to analyze public sentiment and trends about ChatGPT on Twitter. Using PySpark for scalable big data processing and logistic regression for sentiment classification, we analyzed over 190,000 tweets to uncover correlations between sentiment, geography, and user occupation. Additionally, we applied N-Gram and TF-IDF models to extract trending keywords and popular discussion topics. Beyond its analytical depth, this project demonstrates how AI-driven social listening can inform business and product strategy through real-time public opinion insights.
+
+![EyeVision](/assets/img/ChatGPT_The_Tweets.png)
+
 ## Talks & Lectures
-- RLAIF vs. RLHF - NLP Seminar, 2025 [Publication](https://www.mdpi.com/1424-8220/22/8/3048)
+- RLAIF vs. RLHF - NLP Seminar, 2025 [Article](https://arxiv.org/abs/2309.00267)
