@@ -3,9 +3,9 @@
 #### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
 
 ## Education
-- M.Sc. in Computer Science - Machine Learning & Data Science | Reichman University | 2022 - 2025		
-- MBA - Business Administration	| Tel Aviv University | 2024 - Present		        		
-- B.Sc. in Computer Science (Graduated with Honors) | College of Management Academic Studies | 2019 - 2022
+- M.Sc. in Computer Science | Reichman University (_2022 - 2025_)
+- MBA - Business Administration	| Tel Aviv University (_2024 - Present_)
+- B.Sc. in Computer Science | College of Management Academic Studies (_2019 - 2022_)
 
 ## Work Experience
 **R&D Group Lead @ Israeli Military Intelligence - Unit 8200 (_2024 - Present_)**
